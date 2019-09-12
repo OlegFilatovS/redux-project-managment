@@ -1,0 +1,22 @@
+$background_color_1: #95e8f3;
+
+html {
+    min-height: 100%;
+}
+body {
+    background: url("/img/austria-dawn-desktop-backgrounds-1323550.jpg") no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    background-color: $background_color_1;
+    min-height: 100%;
+}
+form {
+    padding: 20px;
+    margin-top: 60px;
+    button {
+        margin: 20px 0;
+    }
+    h5 {
+        margin: 20px 0;
+    }
+}
